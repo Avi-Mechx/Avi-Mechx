@@ -1,4 +1,4 @@
-## Hi,** I'm Abhi (Avi-mechx) **👋
+## Hi, I'm Abhi (Avi-mechx) 👋
 
 🎓 Mechanical Engineering Student
 🤖 Interested in Robotics and Automation
