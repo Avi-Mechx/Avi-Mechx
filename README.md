@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi,** I'm Abhi (Avi-mechx) **👋
 
-<!--
-**Avi-Mechx/Avi-Mechx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineering Student
+🤖 Interested in Robotics and Automation
+⚙️ CAD Design | Engineering Mechanics
+🚁 Learning about Drone Technology
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Basic Python
+- CAD Design (learning)
+- Robotics basics
+
